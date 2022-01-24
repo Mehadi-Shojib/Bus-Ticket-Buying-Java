@@ -1,0 +1,8 @@
+
+Issue date: Tue Apr 13 22:30:25 BDT 2021
+Name: Walid  Hasan	ID: 21001
+Destination: Dhaka to Sylhet
+Departure date: 20-05-2021   Departure time: 12.00PM
+Number of seats: 1        Ac or NonAc: AC-Bus
+Ticket price= 900.0TK         Food price= 700.0TK
+                 Total= 1600.0TK
